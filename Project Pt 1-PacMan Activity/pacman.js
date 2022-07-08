@@ -43,9 +43,15 @@ function checkPageBounds(direction, imgWidth, pos, pageWidth) {
     return direction;
 
   }
+<<<<<<< HEAD
    else if (direction==1)
   {
     direction == 0
+=======
+   else if (direction==1 && pos<=0)
+  {
+    return reverse();
+>>>>>>> 242991cb30e2e26f0e2ee3f3a5a5c3fc1aed7a9c
   }
 direction = 1
 }

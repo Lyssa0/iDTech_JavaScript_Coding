@@ -19,11 +19,7 @@ function checkPoint1() {
         }
         return array;
     }
-<<<<<<< HEAD
     console.log(getMultiples());  
-=======
-    console.log(getMultiples()); 
->>>>>>> 242991cb30e2e26f0e2ee3f3a5a5c3fc1aed7a9c
 
     // DO NOT CHANGE THE CODE BELOW
     alert2();
